@@ -1,5 +1,4 @@
-﻿using Tyuiu.ShakinVV.Sprint2.Task0.V24.Lib;
-using tyuiu.cources.programming.interfaces.Sprint2;
+﻿using tyuiu.cources.programming.interfaces.Sprint2;
 
 //Написать программу из операций сравнений (==, !=, <, >, <=, >=, последовательность операций не должна нарушаться)
 //и арифметических выражений, которая вернет логическую последовательность(массив): (True, True, False, False, True, True)
