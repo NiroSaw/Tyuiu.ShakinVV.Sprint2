@@ -13,7 +13,7 @@ namespace Tyuiu.ShakinVV.Sprint2.Task0.V24
             bool[] res = new bool[6];
             res = ds.GetCompareOperations(x, y);
 
-            Console.Title = "Спринт #1 | Выполнил: Шакин В. В. | АСОиУб-26-1";
+            Console.Title = "Спринт #2 | Выполнил: Шакин В. В. | АСОиУб-26-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Операции сравнения                                                *");
