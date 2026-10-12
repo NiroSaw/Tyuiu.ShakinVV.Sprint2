@@ -12,7 +12,7 @@ namespace Tyuiu.ShakinVV.Sprint2.Task3.V29
             Console.Title = "Спринт #2 | Выполнил: Шакин В. В. | АСОиУб-26-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
-            Console.WriteLine("* Тема: Оператор if – полная и короткая форма записи                      *");
+            Console.WriteLine("* Тема: Вложенные операторы if - else                                     *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #29                                                             *");
             Console.WriteLine("* Выполнил: Шакин Владимир Вячеславович | АСОиУб-26-1                     *");
@@ -34,7 +34,7 @@ namespace Tyuiu.ShakinVV.Sprint2.Task3.V29
             Console.WriteLine("***************************************************************************");
 
             Console.WriteLine("Введите значение переменной X:");
-            double x = Convert.ToInt32(Console.ReadLine());
+            double x = Convert.ToDouble(Console.ReadLine());
             double res = ds.Calculate(x);
 
             Console.WriteLine("***************************************************************************");
