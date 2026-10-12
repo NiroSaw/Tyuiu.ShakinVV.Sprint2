@@ -13,28 +13,28 @@ namespace Tyuiu.ShakinVV.Sprint2.Task5.V2.Lib
                 case 12:
                 case 1:
                 case 2:
-                    res = "Зима";
+                    res = "зима";
                     break;
 
                 // Март, Апрель, Май
                 case 3:
                 case 4:
                 case 5:
-                    res = "Весна";
+                    res = "весна";
                     break;
 
                 // Июнь, Июль, Август
                 case 6:
                 case 7:
                 case 8:
-                    res = "Лето";
+                    res = "лето";
                     break;
 
                 // Сентябрь, Октябрь, Ноябрь
                 case 9:
                 case 10:
                 case 11:
-                    res = "Осень";
+                    res = "осень";
                     break;
 
                 default:
